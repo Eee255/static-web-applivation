@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.top-section-background {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 35vh;
+
+}
+
+.top-section-heading {
+    font-family: "Caveat";
+    width: 250px;
+    color: white;
+    padding: 30px;
+
+}
+
+.bottom-section {
+    background-color: skyblue;
+    background-size: cover;
+    padding: 5px;
+    text-align: center;
+}
+
+.card-item {
+    height: 190px;
+    width: 170px;
+    border-radius: 8px;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 25px;
+}
+
+.picture-item {
+
+    height: 85px;
+}
+
+.card-heading {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.card-paragraph {
+    color: black;
+    font-family: "Roboto";
+    font-size: 25px;
+}

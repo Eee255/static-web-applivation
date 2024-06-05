@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.book-store-home {
+    background-color: #1b1b1b;
+    padding: 20px;
+    background-size: cover;
+}
+
+.book-store-home-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: "bree Serif";
+    font-weight: 500;
+}
+
+.book-store-card {
+    background-color: #e6f6ff;
+    border-radius: 12px;
+}
+
+.top-card-photo {
+    height: 180px;
+    width: 140px;
+    margin-right: 10px;
+}
+
+.top-card-heading {
+    font-size: 18px;
+    font-family: "bree Serif";
+    color: #183b56;
+}
+
+.top-card-pad {
+    padding: 8px;
+}
+
+.top-card-paragraph {
+    font-size: 14px;
+    font-family: "bree Serif";
+    color: #183b56;
+}
+
+.top-card-author {
+    font-size: 10px;
+    font-family: "bree Serif";
+    color: #9aa5b1;
+}
+
+.top-card-button {
+    border-width: 0px;
+    height: 30px;
+    width: 80px;
+    font-size: 12px;
+    border-radius: 6px;
+
+}
+
+.bottom-card-photo {
+    height: 120px;
+    width: 80px;
+
+    margin: 10px;
+}
+
+.bottom-card-heading {
+    font-size: 12px;
+    font-family: "bree Serif";
+    color: #ffffff;
+}
+
+.bottom-card-paragraph {
+    font-size: 10px;
+    font-family: "bree Serif";
+    color: #e4e7eb;
+}
+
+.bottom-card-button {
+    border-width: 0px;
+    height: 30px;
+    width: 80px;
+    font-size: 12px;
+}
+
+.wings-background {
+    background-color: #1b1b1b;
+    text-align: center;
+}
+
+.wimgs-heading {
+    font-family: "bree Serif";
+    font-size: 28px;
+    color: #ffffff;
+
+    padding-top: 16px;
+}
+
+.wings-paragraph {
+    font-family: "bree Serif";
+    font-size: 10px;
+    color: #9aa5b1;
+}
+
+.wings-down-paragraph {
+    font-family: "roboto";
+    font-size: 10px;
+    color: #e4e7eb;
+
+}
+
+.wings-button {
+    color: #06070d;
+    font-family: "roboto";
+    font-size: 12px;
+    height: 20px;
+    width: 40px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin: 6px;
+    margin-bottom: 8px;
+}
+
+.wings-button-two {
+    color: #e4e7eb;
+    font-family: "roboto";
+    font-size: 12px;
+    height: 20px;
+    width: 60px;
+    border-width: 0px;
+    border-radius: 5px;
+    margin: 6px;
+    margin-bottom: 8px;
+}
+
+.card-of-heading {
+    height: 260px;
+    width: 180px;
+}
